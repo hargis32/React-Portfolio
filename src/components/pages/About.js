@@ -5,12 +5,11 @@ export default function About() {
     <div>
       <h1>About Page</h1>
       <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
+      With over 10 years of experience in every facet of the restaurant
+            industry, I understand the importance of delivering a complete
+            product to the end user. I intend to utilize my attention to detail in my future career in
+            web development, meticulously ensuring that every product is as
+            polished as it can be.
       </p>
     </div>
   );

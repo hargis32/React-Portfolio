@@ -26,7 +26,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           About
         </a>
       </li>
-      <li className="nav-item">
+      {/* <li className="nav-item">
         <a
           href="#blog"
           onClick={() => handlePageChange('Blog')}
@@ -35,7 +35,7 @@ function NavTabs({ currentPage, handlePageChange }) {
         >
           Blog
         </a>
-      </li>
+      </li> */}
       <li className="nav-item">
         <a
           href="#contact"
